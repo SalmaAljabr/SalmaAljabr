@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SalmaAljabr
 
-🚀 My Skills
+- 🚀 My Skills
 •	Languages: Java, Python, C++
 •	Technologies: Networking protocols, Git
 •	Database: SQL
