@@ -13,7 +13,7 @@
 • LinkedIn: www.linkedin.com/in/salma-aljabr-1a0993266
 • Email: aljabr.salma@gmail.com
 
-<!---
+
 Hello, I'm Salma, a dedicated sophomore majoring in Computer Science and Network. 
 I have a profound interest in solving complex problems through technology and am proficient in languages such as Java, Python, and C++. 
 My current academic focus involves gaining a deep understanding of networking protocols, Linux. 
@@ -22,4 +22,4 @@ Looking ahead, I aspire to continue expanding my knowledge in cybersecurity whil
 I believe in the power of collaboration and innovation, and I'm eager to contribute to projects that push the boundaries of technology. 
 Ultimately, my goal is to leverage my expertise to make meaningful contributions in the world of computer science and network engineering. 
 I'm excited about the challenges the future holds and am always open to new opportunities and collaborations in the field.
---->
+
