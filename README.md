@@ -1,17 +1,17 @@
 - 👋 Hi, I’m @SalmaAljabr
 
 - 🚀 My Skills
-•	Languages: Java, Python, C++
-•	Technologies: Networking protocols, Git
-•	Database: SQL
+- Languages: Java, Python, C++
+- Technologies: Networking protocols, Git
+- Database: SQL
 
 - 🌱 I’m currently learning
-• Exploring cybersecurity concepts
-• Enhancing my skills in web development
+-  Exploring cybersecurity concepts
+-   Enhancing my skills in web development
 
 - 📫 How to reach me
-• LinkedIn: www.linkedin.com/in/salma-aljabr-1a0993266
-• Email: aljabr.salma@gmail.com
+-  LinkedIn: www.linkedin.com/in/salma-aljabr-1a0993266
+-   Email: aljabr.salma@gmail.com
 
 
 Hello, I'm Salma, a dedicated sophomore majoring in Computer Science and Network. 
