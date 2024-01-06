@@ -14,7 +14,7 @@
 -   Email: aljabr.salma@gmail.com
 
 
-Hello, I'm Salma, a dedicated sophomore majoring in Computer Science and Network. 
+Hello, I'm Salma, a dedicated sophomore majoring in Computer Science and Networks. 
 I have a profound interest in solving complex problems through technology and am proficient in languages such as Java, Python, and C++. 
 My current academic focus involves gaining a deep understanding of networking protocols, Linux. 
 In my spare time, I've worked on projects like [ ATM Management System ]([gh repo clone SalmaAljabr/ATM-Management-System](https://github.com/SalmaAljabr/ATM-Management-System.git)) and [Student registration system]([gh repo clone SalmaAljabr/Student-registration-system2](https://github.com/SalmaAljabr/Student-registration-system.git)), where I applied my skills to practical scenarios. 
